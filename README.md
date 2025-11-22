@@ -77,7 +77,7 @@ gridExtra - For arranging multiple plots
 Installation
 
 1. Clone this repository:
-git clone https://github.com/yourusername/statistics-module-0-1.git
+git clone (https://github.com/Constantien026/R-Studio.git)
 cd statistics-module-0-1
 
 2. Open R or RStudio
