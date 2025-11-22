@@ -1,8 +1,10 @@
 # R-Studio
 
 Statistics Module 0-1: R Programming and Descriptive Statistics
+
 📋 Project Overview
 This repository contains R code implementations for Module 0 (Basic R Operations) and Module 1 (Descriptive Statistics and Data Visualization) from the Statistics course. The project demonstrates fundamental statistical concepts and various data visualization techniques using R programming.
+
 📚 Contents
 Module 0: Basic R Operations
 
@@ -11,7 +13,9 @@ Variables and Assignment: Creating and manipulating variables
 Vectors: Creating vectors, vector operations, and sequence generation
 Basic Statistical Functions: Mean, median, standard deviation, variance, sum, min, max, range
 
+
 Module 1: Descriptive Statistics and Visualizations
+
 1.3.1 Dot Plots
 
 Base R dot plots using stripchart()
@@ -21,8 +25,8 @@ Default stacking
 Center stacking (stackdir = "center")
 Centerwhole stacking (stackdir = "centerwhole")
 
-
 Example: Head breadth measurements of Modern Englishmen
+
 
 1.3.2 Histogram
 
@@ -32,7 +36,6 @@ Default bins
 Custom bin widths
 Histogram with density curve overlay
 Different number of bins
-
 
 Example: Height distribution of students
 
@@ -68,3 +71,22 @@ The script will automatically install missing packages:
 
 ggplot2 - For advanced data visualizations
 gridExtra - For arranging multiple plots
+
+
+
+Installation
+
+1. Clone this repository:
+git clone https://github.com/yourusername/statistics-module-0-1.git
+cd statistics-module-0-1
+
+2. Open R or RStudio
+
+3. Run the main script:
+
+🙏 Acknowledgments
+
+Course materials from Statistics Module 0-1
+R Documentation and community resources
+ggplot2 package by Hadley Wickham
+RStudio Team for the excellent IDE
